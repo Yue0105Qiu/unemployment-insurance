@@ -9,7 +9,7 @@ The university will help register your case in the Swedish Job Security Foundati
 On the first day of your unemployment, you need to register in the [arbetsförmedlingen](https://arbetsformedlingen.se/), where you also update your profile and fill in some information regarding your skills, the types of work you would like to do, etc. 
 
 After you have registered in arbetsförmedlingen, you start applying for compensation from your unemployment insurance fund, which, in our case, is usually [Akademikernas a-kassa](https://www.akademikernasakassa.se/). Then in the system of Akademikernas a-kassa, you again need to update your profile and fill in some information. One special thing here is the employer certificate. On the university webpage, it is said like:
-<img src="C:\Users\user\Desktop\毕业找工作\Sweden\Fig\Employer certificate.jpeg" alt="Employer certificate" style="zoom:70%;" />
+<img src="Fig\Employer certificate.jpeg" alt="Employer certificate" style="zoom:70%;" />
 
 In my case, I already had no access to SSC Portal so I just call the number. Note that the call time is on **weekdays 09.00-12.00**. You can call them and give them your personal number, and asked them to issue that file for you. It usually is done very quickly. I got the file on the same day when I called them. However, in my case, this file was not sent directly to my email, but appeared in [Arbetsgivaringtyg](https://www.arbetsgivarintyg.nu/#/). You cannot download the certificate in that system. Rather, this certificate is automatically sent to your a-kassa, you go to a-kassa's My Pages and check the information shown on the certificate. If everything is correct, click submit.
 
@@ -17,7 +17,7 @@ In the a-kassa system, apart from updating your profile and confirming your empl
 
 I was told it would take two to three weeks to evaluate the case and give the decision. 
 
-The compensation from A-kassa works like below:![A-kassa](C:\Users\user\Desktop\毕业找工作\Sweden\Fig\A-kassa.png)
+The compensation from A-kassa works like below:![A-kassa](Fig/A-kassa.png)
 
 Thus, you only get 80% of 33 000 SEK of your salary for the first 100 days, and 80% of 27 500 SEK of your salary for the next 100 days. If you want the compensation to top-up to your original salary, you would need another insurance, which is usually from your union.
 
@@ -48,3 +48,4 @@ Then if you buy *Income insurance Voluntary supplement* in your insurance compan
 **Sep 3**: submit the employer certificate in the A-kassa system.
 
 **Sep 4**: upload my PhD diploma in the A-kassa system.
+

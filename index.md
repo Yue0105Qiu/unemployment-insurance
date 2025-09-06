@@ -35,7 +35,7 @@ To apply for this supplemental compensation, you need to first have the decision
 
 ## Insurance company side
 
-Combing the A-kassa and the union, you are entitled to get the 80% of your original salary, for a maximum of 150 days.
+Combining the A-kassa and the union, you are entitled to get the 80% of your original salary, for a maximum of 150 days.
 
 Then if you buy *Income insurance Voluntary supplement* in your insurance company, the benefits of compensation of 80% of your original salary can be extended to 300 days.
 
@@ -48,4 +48,5 @@ Then if you buy *Income insurance Voluntary supplement* in your insurance compan
 **Sep 3**: submit the employer certificate in the A-kassa system.
 
 **Sep 4**: upload my PhD diploma in the A-kassa system.
+
 

@@ -49,4 +49,10 @@ Then if you buy *Income insurance Voluntary supplement* in your insurance compan
 
 **Sep 4**: upload my PhD diploma in the A-kassa system.
 
+**Sep 8**: had a call with an arbetsförmedlingen staff who gave me some suggestions about the processes in job-seeking status. You need to:
+* Submit job-application records (6 each month).
+* If I want to take Swedish courses, I need to first get the approval from my a-kassa.
+* Some useful links regarding training and job ads publishing.
+
+
 

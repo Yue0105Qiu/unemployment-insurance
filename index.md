@@ -79,13 +79,13 @@ In parallel, I had an almost 1.5h meeting with my advisor from [Trygghetsstiftel
 
 **Sep 16**: I received the decision from A-kassa. They replied very quickly. However, from the A-kassa system I was only registered from **Sep 8th** (when I had my first appointment with <span style="color:brown">Arbetsförmedlingen</span>). Thus, the decision letter only approved me to get my compensation from Sep 8th. I called both <span style="color:brown">Arbetsförmedlingen</span> and A-kassa. Then I found a certificate in the  <span style="color:brown">Arbetsförmedlingen</span> system stating that I registered in <span style="color:brown">Arbetsförmedlingen</span> from Aug 15th. I uploaded that certificate in the A-kassa system and messaged them about my situation.
 
-**Sep 17**: I received the new decision from A-kassa stating that I am eligible to get my compensation from Aug 15th. I applied for the A-kassa supplement in the [Trygghetsstiftelsen](https://www.tsn.se/) system (You go to *main page* $\rightarrow$ *Menu*$\rightarrow$*My economy*$\rightarrow$*A-kassa supplement*).
+**Sep 17**: I received the new decision from A-kassa stating that I am eligible to get my compensation from Aug 15th. I applied for the A-kassa supplement in the [Trygghetsstiftelsen](https://www.tsn.se/) system (You go to *main page* `$\rightarrow$` *Menu* `$\rightarrow$` *My economy* `$\rightarrow$` *A-kassa supplement*).
 
 **Sep 18**: Received the decision from [Trygghetsstiftelsen](https://www.tsn.se/) and they asked me to give consent for them to approach my data in A-kassa system. So I did that in A-kassa system.  Then I contacted folksam for the supplementary compensation. Had a meeting with my job coach.
 
 **Oct 29:** I get the certificate from Trygghetsstiftelsen and reported my unemployment at [Folksam](https://folksam.sweetsystems.se/web/Survey/AnswerSurvey/5bcf3848-8bc5-40c1-9fe8-a0149565060e?close=1).
 
-**Jan 7:** I accept an offer from a company😃:.
+**Jan 7:** I accept an offer from a company😃.
 
 
 
@@ -94,5 +94,6 @@ In parallel, I had an almost 1.5h meeting with my advisor from [Trygghetsstiftel
 Congratulations! :confetti_ball:
 
 Then you can just de-register yourself at Arbetsförmedlingen. The a-kassa and Folksam income insurance is automatically connected with Arbetsförmedlingen, so you normally do not need to do anything. (I have checked with both a-kassa and Folksam).
+
 
 

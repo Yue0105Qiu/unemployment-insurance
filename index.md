@@ -85,7 +85,7 @@ In parallel, I had an almost 1.5h meeting with my advisor from [Trygghetsstiftel
 
 **Oct 29:** I get the certificate from Trygghetsstiftelsen and reported my unemployment at [Folksam](https://folksam.sweetsystems.se/web/Survey/AnswerSurvey/5bcf3848-8bc5-40c1-9fe8-a0149565060e?close=1).
 
-**Jan 7:** I accept an offer from a company:happy:.
+**Jan 7:** I accept an offer from a company😃:.
 
 
 
@@ -94,4 +94,5 @@ In parallel, I had an almost 1.5h meeting with my advisor from [Trygghetsstiftel
 Congratulations! :confetti_ball:
 
 Then you can just de-register yourself at Arbetsförmedlingen. The a-kassa and Folksam income insurance is automatically connected with Arbetsförmedlingen, so you normally do not need to do anything. (I have checked with both a-kassa and Folksam).
+
 
